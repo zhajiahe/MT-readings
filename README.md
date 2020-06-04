@@ -1,5 +1,5 @@
 # MT-readings
-记录组内成员阅读的一些关于机器翻译的**优质或有价值**论文，分享与总结，请转到[issues](https://github.com/zhajiahe/MT-readings/issues)
+记录组内成员阅读的一些关于机器翻译的**优质或有价值**论文，分享与总结，请转到[issues](https://github.com/zhajiahe/MT-readings/issues)。
 # 格式说明
 标题格式：[年代]-[会议]-[题目]
 
@@ -11,3 +11,5 @@
 - 贡献：分条列举该论文的创新点或者贡献
 - 不足：根据自己的观察和分析，对该论文展开无情的批评
 - 总结：对该论文和相关想法做一下总结
+#TODO
+- 增加一些Labels
