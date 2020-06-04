@@ -1,2 +1,3 @@
 # MT-readings
-Record papers reaing about MT. (机器翻译论文分享）
+记录组内成员阅读的一些关于机器翻译的优质论文，分享与总结
+
