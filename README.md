@@ -1,5 +1,5 @@
 # MT-readings
-记录组内成员阅读的一些关于机器翻译的优质论文，分享与总结
+记录组内成员阅读的一些关于机器翻译的优质论文，分享与总结，请转到[issues](https://github.com/zhajiahe/MT-readings/issues)
 # 格式说明
 标题格式：[年代]-[会议]-[题目]
 
